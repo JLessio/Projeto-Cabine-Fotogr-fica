@@ -1,0 +1,17 @@
+Pessoa aperta botão
+        ↓
+Arduino envia "Capture"
+        ↓
+Python recebe comando
+        ↓
+Webcam tira foto
+        ↓
+Foto enviada ao Google Drive
+        ↓
+Link da foto gerado
+        ↓
+QR Code criado
+        ↓
+QR aparece no monitor externo
+        ↓
+Pessoa escaneia e baixa a foto
